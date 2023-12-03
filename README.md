@@ -1,8 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Youba!;+Welcome+to+my+profile!;&color=84F76E&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youba!;" />
   </a>
 </h1>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
