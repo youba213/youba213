@@ -12,7 +12,7 @@
   
   <br/><br/><br/>
 </div>
-![Nom du QR Code](C:\Users\XPS 15\Downloads\frame.png)
+![Nom du QR Code](C:/Users/XPS 15/Downloads/frame.png)
 
 
 <!--
