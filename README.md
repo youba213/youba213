@@ -12,7 +12,7 @@
   
   <br/><br/><br/>
 </div>
-<img src="https://qrco.de/bebjMl" alt="QR Code" />
+![QR Code](https://qrco.de/bebjMl)
 
 <!--
 **youba213/youba213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
