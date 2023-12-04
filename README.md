@@ -12,7 +12,7 @@
   
   <br/><br/><br/>
 </div>
-![QR Code](/QR_code.png)
+![QR Code](QR_code.png)
 
 
 
