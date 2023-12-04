@@ -14,7 +14,9 @@
 </div>
 
 <div align="center">
-  <h3>Coming Soon... Website</h3> 
+  <h2>🚀 Something Awesome Is Coming Soon...</h2>
+  <p>⚙️ Stay tuned for my exciting new website! 🪛</p>
+  
   <img src="/QR_code.png" alt="QR Code" width="300"/>
 </div>
 
