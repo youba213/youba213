@@ -12,9 +12,11 @@
   
   <br/><br/><br/>
 </div>
-![QR Code](/QR_code.png)
 
 
+<div align="center">
+  ![QR Code](/QR_code.png)
+</div>
 
 <!--
 **youba213/youba213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
