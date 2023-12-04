@@ -15,7 +15,8 @@
 
 
 
-  ![QR Code](/QR_code.png)
+    <img src="QR_code.png" alt="QR Code" width="200"/>
+
 
 
 
