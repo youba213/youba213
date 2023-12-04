@@ -12,7 +12,7 @@
   
   <br/><br/><br/>
 </div>
-![frame](/QR_code.png)
+![QR_code](/QR_code.png)
 
 
 
