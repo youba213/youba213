@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-  comming soon... website 
-<img src="/QR_code.png" alt="QR Code" width="300"/>
+  <h3>Coming Soon... Website</h3> 
+  <img src="/QR_code.png" alt="QR Code" width="300"/>
 </div>
 
 
