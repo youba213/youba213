@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img src="/QR_code.png" alt="QR Code" width="200"/>
+<img src="/QR_code.png" alt="QR Code" width="300"/>
 </div>
 
 
