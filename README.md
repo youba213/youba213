@@ -13,7 +13,7 @@
   <br/><br/><br/>
 </div>
 
-<div style="text-align:center">
+<div align="center">
 <img src="/QR_code.png" alt="QR Code" width="200"/>
 </div>
 
