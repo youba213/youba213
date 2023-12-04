@@ -12,7 +12,7 @@
   
   <br/><br/><br/>
 </div>
-![frame](https://github.com/youba213/youba213/assets/62576188/3d66e7cd-c292-4433-a200-51d49a8062eb)
+![frame](/QR_code.png)
 
 
 
